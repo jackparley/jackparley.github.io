@@ -1,0 +1,56 @@
+---
+title: "Publications"
+---
+
+## Machine learning, language, and representation learning
+
+### Deep networks learn to parse uniform-depth context-free languages from local statistics
+
+Jack T. Parley, Francesco Cagnetta, and Matthieu Wyart.  
+*Proceedings of the 43rd International Conference on Machine Learning (ICML), PMLR 306, 2026.*
+
+This work studies how deep networks learn to parse language-like hierarchical structure from examples alone. We introduce a controlled family of probabilistic context-free grammars with varying tree topology and ambiguity, derive a learning mechanism based on local statistics, and test its predictions in deep networks.
+
+Links:
+
+- [Code](https://github.com/jackparley/learn_to_parse)
+- [ICML poster page](https://icml.cc/virtual/2026/poster/61860)
+- Paper: coming soon
+- Poster: coming soon
+
+## Statistical physics and complex systems
+
+### Ductile and brittle yielding of athermal amorphous solids: A mean-field paradigm beyond the random-field Ising model
+
+Jack T. Parley and Peter Sollich.  
+*Physical Review E* **110**, 045002, 2024.
+
+Mean-field theory of yielding transitions in amorphous solids, developing a paradigm beyond standard random-field-Ising-model descriptions of driven disordered systems.
+
+### Mean field description of aging linear response in athermal amorphous solids
+
+Jack T. Parley, Rituparno Mandal, and Peter Sollich.  
+*Physical Review Materials* **6**, 065601, 2022.
+
+Theory of aging and linear response in athermal amorphous solids, combining mean-field modeling with the physics of slow relaxation.
+
+### Mean-Field Theory of Yielding under Oscillatory Shear
+
+Jack T. Parley, Srikanth Sastry, and Peter Sollich.  
+*Physical Review Letters* **128**, 198001, 2022.
+
+Mean-field theory for yielding under oscillatory shear, studying the transition between reversible and irreversible dynamics in amorphous materials.
+
+### Aging in a mean field elastoplastic model of amorphous solids
+
+Jack T. Parley, Suzanne M. Fielding, and Peter Sollich.  
+*Physics of Fluids* **32**, 127104, 2020.
+
+Study of aging dynamics in a mean-field elastoplastic model of amorphous solids.
+
+### Effects of Heterogeneous Social Interactions on Flocking Dynamics
+
+M. Carmen Miguel, Jack T. Parley, and Romualdo Pastor-Satorras.  
+*Physical Review Letters* **120**, 068303, 2018.
+
+Study of how heterogeneous interaction networks affect collective motion and flocking dynamics.

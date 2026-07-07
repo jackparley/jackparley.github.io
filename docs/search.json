@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download full CV"
+  },
+  {
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
+    "title": "CV",
+    "section": "Profile",
+    "text": "Profile\nResearcher with a background in statistical physics and current work in machine learning, language acquisition, and grammar induction."
+  },
+  {
+    "objectID": "cv.html#research-areas",
+    "href": "cv.html#research-areas",
+    "title": "CV",
+    "section": "Research areas",
+    "text": "Research areas\n\nLanguage acquisition from examples alone\nGrammar induction and parsing\nStatistical physics of learning\nProbabilistic modelling\nDeep learning theory\nPrior work in statistical physics and complex systems"
+  },
+  {
+    "objectID": "cv.html#selected-experience",
+    "href": "cv.html#selected-experience",
+    "title": "CV",
+    "section": "Selected experience",
+    "text": "Selected experience\n\nPhD in statistical physics\nCurrent AI research on language learning and hierarchical structure\nExperience with probabilistic grammars, inside–outside algorithms, PyTorch, and scientific computing"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "Technical skills",
+    "text": "Technical skills\n\nPython\nPyTorch\nScientific computing\nProbabilistic modelling\nNumerical experiments\nLaTeX\nGit/GitHub"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\nJapanese (+6 European languages)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Jack T. Parley, Francesco Cagnetta, and Matthieu Wyart.\nProceedings of the 43rd International Conference on Machine Learning (ICML), PMLR 306, 2026.\nThis work studies how deep networks learn to parse language-like hierarchical structure from examples alone. We introduce a controlled family of probabilistic context-free grammars with varying tree topology and ambiguity, derive a learning mechanism based on local statistics, and test its predictions in deep networks.\nLinks:\n\nCode\nICML poster page\nPaper: coming soon\nPoster: coming soon"
+  },
+  {
+    "objectID": "publications.html#machine-learning-language-and-representation-learning",
+    "href": "publications.html#machine-learning-language-and-representation-learning",
+    "title": "Publications",
+    "section": "",
+    "text": "Jack T. Parley, Francesco Cagnetta, and Matthieu Wyart.\nProceedings of the 43rd International Conference on Machine Learning (ICML), PMLR 306, 2026.\nThis work studies how deep networks learn to parse language-like hierarchical structure from examples alone. We introduce a controlled family of probabilistic context-free grammars with varying tree topology and ambiguity, derive a learning mechanism based on local statistics, and test its predictions in deep networks.\nLinks:\n\nCode\nICML poster page\nPaper: coming soon\nPoster: coming soon"
+  },
+  {
+    "objectID": "publications.html#statistical-physics-and-complex-systems",
+    "href": "publications.html#statistical-physics-and-complex-systems",
+    "title": "Publications",
+    "section": "Statistical physics and complex systems",
+    "text": "Statistical physics and complex systems\n\nDuctile and brittle yielding of athermal amorphous solids: A mean-field paradigm beyond the random-field Ising model\nJack T. Parley and Peter Sollich.\nPhysical Review E 110, 045002, 2024.\nMean-field theory of yielding transitions in amorphous solids, developing a paradigm beyond standard random-field-Ising-model descriptions of driven disordered systems.\n\n\nMean field description of aging linear response in athermal amorphous solids\nJack T. Parley, Rituparno Mandal, and Peter Sollich.\nPhysical Review Materials 6, 065601, 2022.\nTheory of aging and linear response in athermal amorphous solids, combining mean-field modeling with the physics of slow relaxation.\n\n\nMean-Field Theory of Yielding under Oscillatory Shear\nJack T. Parley, Srikanth Sastry, and Peter Sollich.\nPhysical Review Letters 128, 198001, 2022.\nMean-field theory for yielding under oscillatory shear, studying the transition between reversible and irreversible dynamics in amorphous materials.\n\n\nAging in a mean field elastoplastic model of amorphous solids\nJack T. Parley, Suzanne M. Fielding, and Peter Sollich.\nPhysics of Fluids 32, 127104, 2020.\nStudy of aging dynamics in a mean-field elastoplastic model of amorphous solids.\n\n\nEffects of Heterogeneous Social Interactions on Flocking Dynamics\nM. Carmen Miguel, Jack T. Parley, and Romualdo Pastor-Satorras.\nPhysical Review Letters 120, 068303, 2018.\nStudy of how heterogeneous interaction networks affect collective motion and flocking dynamics."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Poster, 43rd International Conference on Machine Learning (ICML), Seoul, South Korea.\nWednesday, July 8, 2026, 5:00 PM–6:45 PM KST, Hall A #4607.\nAuthors: Jack T. Parley, Francesco Cagnetta, and Matthieu Wyart.\nLinks:\n\nICML poster page\nCode\n\n\n\n\nFlash talk, Stanford University, United States, November 2025.\n\n\n\nOral contribution, Avalanche Conference 2024, Espoo, Finland.\n\n\n\nOral contribution, CECAM Flagship Workshop, Lausanne, Switzerland, May 2023.\n\n\n\nOral contribution, STATPHYS satellite workshop, Bariloche, Argentina, July 2019.\n\n\n\nOral contribution, STATPHYS 27, Buenos Aires, Argentina, July 2019."
+  },
+  {
+    "objectID": "talks.html#conferences-talks-and-posters",
+    "href": "talks.html#conferences-talks-and-posters",
+    "title": "Talks",
+    "section": "",
+    "text": "Poster, 43rd International Conference on Machine Learning (ICML), Seoul, South Korea.\nWednesday, July 8, 2026, 5:00 PM–6:45 PM KST, Hall A #4607.\nAuthors: Jack T. Parley, Francesco Cagnetta, and Matthieu Wyart.\nLinks:\n\nICML poster page\nCode\n\n\n\n\nFlash talk, Stanford University, United States, November 2025.\n\n\n\nOral contribution, Avalanche Conference 2024, Espoo, Finland.\n\n\n\nOral contribution, CECAM Flagship Workshop, Lausanne, Switzerland, May 2023.\n\n\n\nOral contribution, STATPHYS satellite workshop, Bariloche, Argentina, July 2019.\n\n\n\nOral contribution, STATPHYS 27, Buenos Aires, Argentina, July 2019."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My current research asks how deep networks can learn hierarchical linguistic structure from examples alone.\nI study this question using probabilistic context-free grammars, synthetic languages, inside–outside algorithms, and neural architectures trained on structured data. A central goal is to understand which statistics make parsing learnable, how much data is required, and how these mechanisms relate to language acquisition in large neural networks.\nMy ICML 2026 paper, Deep networks learn to parse uniform-depth context-free languages from local statistics, studies a controlled family of context-free languages with varying tree topology and ambiguity. The work shows that deep networks can exploit local statistical regularities to construct parse trees, and connects their sample complexity to theoretically predicted correlation strengths."
+  },
+  {
+    "objectID": "research.html#language-acquisition-and-grammar-induction",
+    "href": "research.html#language-acquisition-and-grammar-induction",
+    "title": "Research",
+    "section": "",
+    "text": "My current research asks how deep networks can learn hierarchical linguistic structure from examples alone.\nI study this question using probabilistic context-free grammars, synthetic languages, inside–outside algorithms, and neural architectures trained on structured data. A central goal is to understand which statistics make parsing learnable, how much data is required, and how these mechanisms relate to language acquisition in large neural networks.\nMy ICML 2026 paper, Deep networks learn to parse uniform-depth context-free languages from local statistics, studies a controlled family of context-free languages with varying tree topology and ambiguity. The work shows that deep networks can exploit local statistical regularities to construct parse trees, and connects their sample complexity to theoretically predicted correlation strengths."
+  },
+  {
+    "objectID": "research.html#statistical-physics-of-learning",
+    "href": "research.html#statistical-physics-of-learning",
+    "title": "Research",
+    "section": "Statistical physics of learning",
+    "text": "Statistical physics of learning\nA central theme in my work is the use of statistical-physics ideas to understand learning: phase transitions, sample complexity, scaling laws, and the emergence of latent structure from data.\nThis perspective is particularly useful for language-like data, where the observable sequence is generated by hidden hierarchical structure. I am interested in how simple models can reveal the mechanisms by which neural networks discover such structure."
+  },
+  {
+    "objectID": "research.html#previous-work-in-statistical-physics",
+    "href": "research.html#previous-work-in-statistical-physics",
+    "title": "Research",
+    "section": "Previous work in statistical physics",
+    "text": "Previous work in statistical physics\nBefore moving into AI and language learning, I worked on the statistical physics of amorphous solids, with a focus on aging, yielding, avalanches, and driven disordered systems.\nMy Ph.D. developed mean-field theories for the aging and yielding of athermal amorphous solids. This work led to first-author publications in Physical Review Letters, Physical Review Materials, and Physics of Fluids. During my subsequent postdoctoral work in Göttingen, I developed mean-field approaches to ductile and brittle yielding transitions beyond standard random-field-Ising-model paradigms.\nThis background continues to shape my approach to machine learning: I am especially interested in simple models, emergent structure, phase transitions, and the relation between microscopic rules and macroscopic behavior."
+  },
+  {
+    "objectID": "research.html#methods-and-tools",
+    "href": "research.html#methods-and-tools",
+    "title": "Research",
+    "section": "Methods and tools",
+    "text": "Methods and tools\nMy work combines:\n\nprobabilistic modeling\nstatistical mechanics\ngrammar induction and parsing\ninside and inside–outside algorithms\ndeep learning and transformer models\nsynthetic data generation\nscalable PyTorch implementations\nnumerical experiments on GPU/HPC systems"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me by email:\njack.parley@epfl.ch\nYou can also find me here:\n\nGitHub\nGoogle Scholar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jack T. Parley",
+    "section": "",
+    "text": "I am a researcher working at the interface of statistical physics, machine learning, and language acquisition.\nMy current work studies how hierarchical linguistic structure can be learned from examples alone, combining ideas from probabilistic grammars, inside–outside algorithms, and deep learning. My previous research in statistical physics focused on the emergence of macroscopic structure from microscopic interactions."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jack T. Parley",
+    "section": "Research interests",
+    "text": "Research interests\n\nLanguage acquisition from examples alone\nGrammar induction and parsing\nStatistical physics of learning\nProbabilistic modelling\nDeep learning theory\nEmergent structure in complex systems"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Jack T. Parley",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar\nGitHub\nEmail\nCV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

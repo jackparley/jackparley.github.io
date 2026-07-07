@@ -1,0 +1,12 @@
+---
+title: "Contact"
+---
+
+You can contact me by email:
+
+[jack.parley@epfl.ch](mailto:jack.parley@epfl.ch)
+
+You can also find me here:
+
+- [GitHub](https://github.com/jackparley)
+- [Google Scholar](https://scholar.google.com/citations?user=gs4vYZgAAAAJ&hl=en)

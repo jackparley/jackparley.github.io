@@ -1,0 +1,38 @@
+---
+title: "CV"
+---
+
+[Download full CV](files/jack_parley_cv.pdf)
+
+## Profile
+
+Researcher with a background in statistical physics and current work in machine learning, language acquisition, and grammar induction.
+
+## Research areas
+
+- Language acquisition from examples alone
+- Grammar induction and parsing
+- Statistical physics of learning
+- Probabilistic modelling
+- Deep learning theory
+- Prior work in statistical physics and complex systems
+
+## Selected experience
+
+- PhD in statistical physics
+- Current AI research on language learning and hierarchical structure
+- Experience with probabilistic grammars, inside--outside algorithms, PyTorch, and scientific computing
+
+## Technical skills
+
+- Python
+- PyTorch
+- Scientific computing
+- Probabilistic modelling
+- Numerical experiments
+- LaTeX
+- Git/GitHub
+
+## Languages
+
+Japanese (+6 European languages)

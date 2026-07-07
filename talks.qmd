@@ -1,0 +1,37 @@
+---
+title: "Talks"
+---
+
+## Conferences, talks, and posters
+
+### Deep networks learn to parse uniform-depth context-free languages from local statistics
+
+Poster, 43rd International Conference on Machine Learning (ICML), Seoul, South Korea.  
+Wednesday, July 8, 2026, 5:00 PM--6:45 PM KST, Hall A #4607.
+
+Authors: Jack T. Parley, Francesco Cagnetta, and Matthieu Wyart.
+
+Links:
+
+- [ICML poster page](https://icml.cc/virtual/2026/poster/61860)
+- [Code](https://github.com/jackparley/learn_to_parse)
+
+### Simons Collaboration for the Physics of Learning and Neural Computation
+
+Flash talk, Stanford University, United States, November 2025.
+
+### Mean-field mechanical noise approach to plasticity in amorphous solids can capture essential long-range physics
+
+Oral contribution, Avalanche Conference 2024, Espoo, Finland.
+
+### Mean field theory of the brittle yielding transition under uniform shear
+
+Oral contribution, CECAM Flagship Workshop, Lausanne, Switzerland, May 2023.
+
+### Time-dependent rheology of amorphous materials
+
+Oral contribution, STATPHYS satellite workshop, Bariloche, Argentina, July 2019.
+
+### Amorphous materials with broad mechanical noise
+
+Oral contribution, STATPHYS 27, Buenos Aires, Argentina, July 2019.

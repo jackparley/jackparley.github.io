@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jack T. Parley"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: talks.qmd
+        text: Talks
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    toc: true

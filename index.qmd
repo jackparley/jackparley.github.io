@@ -1,0 +1,25 @@
+---
+title: "Jack T. Parley"
+---
+
+![](images/jack_parley.png){width=220px fig-align="right"}
+
+I am a researcher working at the interface of statistical physics, machine learning, and language acquisition.
+
+My current work studies how hierarchical linguistic structure can be learned from examples alone, combining ideas from probabilistic grammars, inside--outside algorithms, and deep learning. My previous research in statistical physics focused on the emergence of macroscopic structure from microscopic interactions.
+
+## Research interests
+
+- Language acquisition from examples alone
+- Grammar induction and parsing
+- Statistical physics of learning
+- Probabilistic modelling
+- Deep learning theory
+- Emergent structure in complex systems
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=gs4vYZgAAAAJ&hl=en)
+- [GitHub](https://github.com/jackparley)
+- [Email](mailto:jack.parley@epfl.ch)
+- [CV](files/jack_parley_cv.pdf)
