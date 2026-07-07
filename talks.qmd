@@ -16,9 +16,6 @@ Links:
 - [ICML poster page](https://icml.cc/virtual/2026/poster/61860)
 - [Code](https://github.com/jackparley/learn_to_parse)
 
-### Simons Collaboration for the Physics of Learning and Neural Computation
-
-Flash talk, Stanford University, United States, November 2025.
 
 ### Mean-field mechanical noise approach to plasticity in amorphous solids can capture essential long-range physics
 
